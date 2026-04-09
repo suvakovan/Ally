@@ -62,7 +62,7 @@ export function generatePersonStructuredData() {
     sameAs: [
       'https://github.com/ehsanghaffar',
       'https://twitter.com/ehsanghaffar',
-      'https://linkedin.com/in/ehsanghaffar',
+      'https://www.linkedin.com/in/kameshwari-kamesh-134b18311',
     ],
     jobTitle: 'Software Engineer',
     worksFor: {

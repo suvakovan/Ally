@@ -47,15 +47,15 @@ export function ProjectsGrid() {
           </div>
         </div>
 
-        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-2">
           {projects.map((project, index) => (
             <article
               key={project.id}
               className={cn(
                 "group relative overflow-hidden rounded-xl border bg-card/40 p-6 sm:p-7 glass transition-all duration-400 active:scale-[0.99] hover-lift hover:border-primary/40 hover:bg-card/70 animate-fade-in-up",
                 project.highlight
-                  ? "sm:col-span-2 lg:col-span-3 border-primary/30 bg-gradient-to-br from-primary/8 via-card/50 to-primary/8"
-                  : "border-border/60 sm:col-span-1 lg:col-span-1.5"
+                  ? "sm:col-span-2 lg:col-span-2 border-primary/30 bg-gradient-to-br from-primary/8 via-card/50 to-primary/8"
+                  : "border-border/60 sm:col-span-1 lg:col-span-1"
               )}
               style={{ animationDelay: `${(index % 6) * 100 + 200}ms` }}
             >

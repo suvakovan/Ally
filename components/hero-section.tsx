@@ -56,7 +56,7 @@ export function HeroSection() {
             </div>
 
             <p className="max-w-lg text-base sm:text-lg leading-relaxed text-muted-foreground animate-fade-in-up stagger-2">
-              Driven by a passion for predictive analytics and robust software development. My objective is to utilize my background in data management to enhance operational efficiency and deliver measurable, data-driven results.
+              To secure a challenging position that allows me to utilize my background in data management and software logic to enhance operational efficiency. I aim to contribute to a forward-thinking organization while further developing my professional expertise and delivering measurable results.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 animate-fade-in-up stagger-3">

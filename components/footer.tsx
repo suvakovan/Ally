@@ -1,7 +1,7 @@
 import { Github, Twitter, Linkedin, Mail, ExternalLink, Heart } from "lucide-react"
 
 const socialLinks = [
-  { label: "GitHub", href: "https://github.com", handle: "Github Profile", icon: Github },
+  { label: "GitHub", href: "https://github.com/kameshapi", handle: "github.com/kameshapi", icon: Github },
   { label: "LinkedIn", href: "https://www.linkedin.com/in/kameshwari-kamesh-134b18311", handle: "/in/kameshwari", icon: Linkedin },
   { label: "Email", href: "mailto:kameshravi1975@gmail.com", handle: "kameshravi1975@gmail.com", icon: Mail },
 ]

@@ -60,7 +60,7 @@ export function generatePersonStructuredData() {
     url: 'https://eindev.ir',
     image: 'https://eindev.ir/developer-portrait.png',
     sameAs: [
-      'https://github.com/ehsanghaffar',
+      'https://github.com/kameshapi',
       'https://twitter.com/ehsanghaffar',
       'https://www.linkedin.com/in/kameshwari-kamesh-134b18311',
     ],

@@ -15,7 +15,7 @@ const navItems = [
 ]
 
 const socialLinks = [
-  { label: "GitHub", href: "https://github.com", icon: Github },
+  { label: "GitHub", href: "https://github.com/kameshapi", icon: Github },
   { label: "LinkedIn", href: "https://www.linkedin.com/in/kameshwari-kamesh-134b18311", icon: Linkedin },
 ]
 
